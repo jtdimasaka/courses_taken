@@ -55,7 +55,7 @@
   - PUBLPOL 308: Political Analysis for Public Policymakers
   - PUBLPOL 310: Master of Arts Thesis
   - PUBLPOL 311: Public Policy Colloquium
-- Spring 2021
+- Spring 2022
   - CS 229: Machine Learning
   - MS&E 355: Influence Diagrams and Probabilistic Networks
   - PUBLPOL 301B: Economic Policy Analysis for Policymakers
