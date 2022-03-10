@@ -1,2 +1,145 @@
-# courses_taken
-This is a list of undergraduate and graduate courses I took at the University of the Philippines and Stanford University.
+## Graduate Courses
+
+### MS Civil and Environmental Engineering, Sustainable Design and Construction (Structures)
+- Autumn 2019
+  - CEE 203: Probabilistic Models in Civil Engineering
+  - CEE 280: Advanced Structural Analysis
+  - CEE 285A: Advanced Structural Concrete Behavior and Design
+  - CEE 379: Introduction to PHD Studies in Civil and Environmental Engineering	
+- Winter 2020
+  - CEE 282: Nonlinear Structural Analysis
+  - CEE 285B: Advanced Structural Steel Behavior and Design
+  - CEE 288: Introduction to Performance Based Earthquake Engineering
+  - CEE 298: Structural Engineering and Geomechanics Seminar
+- Spring 2020
+  - CEE 220C: Parametric Design and Optimization
+  - CEE 241C: Global Infrastructure Projects Seminar
+  - CEE 296: Regional Seismic Risk Analysis and Risk Management
+  - CEE 324: Industrialized Construction
+- Summer 2020
+  - CEE 299: Independent Study in Civil Engineering for CEE-MS Students
+  - CEE 398: Report on Civil Engineering Training
+- Autumn 2020
+  - CEE 226: Life Cycle Assessment for Complex Systems
+  - CEE 241: Managing Fabrication and Construction
+  - CEE 258: Donald R. Watson Seminar in Construction Engineering and Management
+  - CEE 299: Independent Study in Civil Engineering for CEE-MS Students
+- Winter 2021
+  - CEE 220B: Advanced Building Modeling Workshop
+  - CEE 299: Independent Study in Civil Engineering for CEE-MS Students
+  - ENGR 202W: Technical Communication
+- Spring 2021
+  - CEE 299: Independent Study in Civil Engineering for CEE-MS Students
+  - CEE 398: Report on Civil Engineering Training
+- Summer 2021
+  - CEE 398: Report on Civil Engineering Training
+- Autumn 2021
+  - CEE 398: Report on Civil Engineering Training
+- Winter 2021
+  - CEE 398: Report on Civil Engineering Training
+
+### MA Public Policy
+- Spring 2021
+  - CS 124: Public Policy Colloquium
+  - PUBLPOL 311: Public Policy Colloquium
+  - URBANST 163: Land Use: Planning for Sustainable Cities
+- Autumn 2021
+  - PUBLPOL 301A: Microeconomics for Policy
+  - PUBLPOL 310A: Master's Thesis Seminar
+  - PUBLPOL 311: Public Policy Colloquium
+  - PUBLPOL 314: Justice in Public Policy
+  - STATS 202: Data Mining and Analysis
+- Winter 2021
+  - PUBLPOL 302B: Economic Analysis of Law
+  - PUBLPOL 303D: Applied Econometrics for Public Policy
+  - PUBLPOL 308: Political Analysis for Public Policymakers
+  - PUBLPOL 310: Master of Arts Thesis
+  - PUBLPOL 311: Public Policy Colloquium
+- Spring 2021
+  - CS 229: Machine Learning
+  - MS&E 355: Influence Diagrams and Probabilistic Networks
+  - PUBLPOL 301B: Economic Policy Analysis for Policymakers
+  - PUBLPOL 310: Master of Arts Thesis
+
+## Undergraduate Courses
+- First Semester, 2013-14
+  - MATH 17: Algebra and Trigonometry
+  - MATH 1: Quantitative Reasoning
+  - ENG 1: College English
+  - SOSC 1: Foundation of Behavioral Sciences
+  - STS 1: Science, Technology, and Society
+  - ENSC 1: Introduction to Engineering
+  - PE 1: Foundations of Physical Fitness
+- Second Semester, 2013-14
+  - MATH 36: Mathematical Analysis I
+  - HUM 1: Literature, Man, and Society
+  - HUM 2: Art, Man, and Society
+  - HUME 10: Sexuality in Adolescence
+  - ENG 2: College Writing in English
+  - STAT 1: Elementary Statistics
+  - PE 2: Badminton
+- Summer, 2013-14
+  - CHEM 15: Fundamentals of Chemistry
+  - CHEM 15.1: Fundamentals of Chemistry Laboratory
+- First Semester, 2014-15
+  - MATH 37: Mathematical Analysis II
+  - PHYS 81: Fundamental Physics I
+  - PI 10: The Life and Works of Jose Rizal
+  - SPCM 1: Speech Communication
+  - ENSC 10a: Engineering Graphics I
+  - PE 2: Philippine Games
+  - NSTP 1: National Service Training Program
+- Second Semester, 2014-15
+  - PHYS 82: Fundamental Physics II
+  - HIST 1: Philippine History
+  - NASC 3: Physics in Everyday Life
+  - ENSC 11: Statics of Rigid Bodies
+  - MATH 38: Mathematical Analysis II
+  - ABE 70: Fundamentals of Surveying
+  - PE 2: Chess
+- Midyear, 2015
+  - ENSC 12: Dynamics of Rigid Bodies
+  - ENSC 13: Strength of Materials
+- First Semester, 2015-16
+  - CE 131: Structural Engineering I
+  - EE 1: Basic Electrical Engineering
+  - ENSC 16: Fluid Mechanics
+  - ENSC 18: Materials of Engineering
+  - ENSC 21: Mathematical Methods in Engineering
+  - FPPS 183: Engineering Economic Analysis'
+- Second Semester, 2015-16
+  - ABE 71: Field Hydrology
+  - CE 12: Higher Surveying
+  - CE 132: Structural Engineering II
+  - CE 161: Construction Materials
+  - ENSC 14: Basic Thermodynamics
+  - NASC 1: The Material Universe
+  - ENSC 16b: Fluid Mechanics Laboratory
+  - NSTP 2: Civic Welfare Training Service
+- Midyear, 2016
+  - ENSC 10b: Engineering Graphics II
+  - IE 141: Operations Research I
+- First Semester, 2016-17
+  - ABE 180: Soil Engineering
+  - CE 121: Transportation Engineering I
+  - CE 133: Structural Engineering III
+  - CE 134: Structural Engineering IV
+  - CE 135: Structural Engineering V
+  - CE 141: Hydraulic Engineering
+  - CE 151: Sanitary Engineering
+- Second Semester, 2016-17
+  - ABE 72: Irrigation and Drainage Engineering I
+  - CE 122: Transportation Engineering II
+  - CE 136: Pre-stressed Concrete
+  - CE 137: Structural Dynamics and Earthquake Engineering
+  - CE 152: Sanitary Engineering II
+  - CE 162: Construction Project Planning and Management
+  - CE 200: Undergraduate Thesis
+- First Semester, 2017-18
+  - CE 163: Civil Engineering Laws, Contracts, and Ethics
+  - CE 171: Foundation Engineering
+  - CE 199: Undergraduate Seminar
+  - CE 200: Undergraduate Thesis
+  - ChE 180: Agro-Industrial Waster Management
+  - ENG 10: Writing of Scientific Papers
+  - ENSC 26: Computer Applications in Engineering
