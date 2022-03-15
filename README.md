@@ -56,7 +56,7 @@
   - PUBLPOL 310: Master of Arts Thesis
   - PUBLPOL 311: Public Policy Colloquium
 - Spring 2022
-  - CS 229: Machine Learning
+  - PUBLPOL 315: Practical Training
   - MS&E 355: Influence Diagrams and Probabilistic Networks
   - PUBLPOL 301B: Economic Policy Analysis for Policymakers
   - PUBLPOL 310: Master of Arts Thesis
